@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Magazyn</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="add">Dodaj</string>
+    <string name="name_label">Nazwa</string>
+    <string name="parent_category">Rodzic</string>
+    <string name="save">Zapisz</string>
+    <string name="remove_message">Czy napewno chcesz usunąć?</string>
+    <string name="remove_title">Usuwanie</string>
+    <string name="yes">tak</string>
+    <string name="no">nie</string>
+    <string name="categories">Kategorie</string>
+    <string name="providers">Dostawcy</string>
+    <string name="category">Kategoria</string>
+    <string name="provider">Dostawca</string>
+    <string name="telephone">Telefon</string>
+    <string name="address">Adres</string>
+    <string name="articles">Artykuły</string>
+    <string name="price_label">Cena</string>
+    <string name="article">Artykuł</string>
+    <string name="background_color">Kolor Tła</string>
+    <string name="buttons_color">Kolor przycisków</string>
+    <string name="settings">Ustawienia</string>
+    <string name="no_best_article">Brak najlepszego artykułu</string>
+    <string name="set_background_color">Ustaw kolor tła</string>
+    <string name="set_buttons_color">Ustaw kolor przycisków</string>
+    <string name="note">Notatka</string>
+    <string name="cant_save">Nie można zapisać, brak uprawnień.</string>
+
+    <string-array name="colors_names">
+        <item>Czarny</item>
+        <item>Czerwony</item>
+        <item>Zielony</item>
+        <item>Niebieski</item>
+        <item>Żółty</item>
+        <item>Jasno Niebieski</item>
+        <item>Różowy</item>
+        <item>Szary</item>
+        <item>Biały</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>#000000</item>
+        <item>#FF0000</item>
+        <item>#00FF00</item>
+        <item>#0000FF</item>
+        <item>#FFFF00</item>
+        <item>#00FFFF</item>
+        <item>#FF00FF</item>
+        <item>#AAAAAA</item>
+        <item>#FFFFFF</item>
+    </string-array>
+</resources>
